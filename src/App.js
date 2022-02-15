@@ -1,9 +1,18 @@
 import React from 'react'
+import './app.css'
+import Review from './Review'
+
 
 const App = () => {
   return (
-    <div>
-      <h1>App</h1>
+    <div className='review-body'>
+
+      <h1>Reviews</h1>
+
+      <Review />
+     
+
+     
     </div>
   )
 }

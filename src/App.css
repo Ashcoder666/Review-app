@@ -1,0 +1,16 @@
+.review-body{
+    width: 700px;
+    height: 450px;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    text-align: center;
+}
+img{
+    width:100px;
+}
+.para{
+    width: 700px;
+   text-align: center;
+}
